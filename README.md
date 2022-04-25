@@ -1,2 +1,2 @@
-# Todolist
-Todo list : CRUD
+# python TodoApp
+Todo App : CRUD
